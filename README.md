@@ -21,4 +21,4 @@ flowchart TD
     F -- 3: Para Çek --> I{Bakiye Yeterli mi?}
     I -- Evet --> J[Bakiyeden Düş] --> E
     I -- Hayır --> K[Yetersiz Bakiye Uyarısı] --> E
-    F -- 4: Çıkış --> 
+    F -- 4: Çıkış --> Z
