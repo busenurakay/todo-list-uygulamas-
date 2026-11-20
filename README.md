@@ -22,3 +22,4 @@ flowchart TD
     I -- Evet --> J[Bakiyeden Düş] --> E
     I -- Hayır --> K[Yetersiz Bakiye Uyarısı] --> E
     F -- 4: Çıkış --> Z
+```
